@@ -1,2 +1,2 @@
 # HLD_EDA
-EDA on HLD data set
+Exploratory Data Analysis on the Home Credit Default Risk dataset from Kaggle.
